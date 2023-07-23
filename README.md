@@ -2,6 +2,12 @@
 
 The project is about superstore powerbi dashboard. 
 
+## Steps In-depth:
+* understanding data.
+* clean and transform the data.
+* visualizing the data.
+* custom columns and measures by using DAX function.
+  
 ## In this you can find:
 ## CARDS 
 * Total sales
