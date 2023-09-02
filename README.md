@@ -27,7 +27,7 @@ The project is about superstore powerbi dashboard.
 * Line and clusteres column chart of [ sales and profit by year ]
 * Tables of [ states sum of sales and sum of profits]
 
-## DATA VISUAL:
+## DASHBOARD VISUAL:
 
 ![1693649682581](https://github.com/rakshithaelango/Sample_Superstore_Power-Bi-dashboard/assets/116090323/ce92e627-b4ac-43f5-8bc3-a2433d606275)
 
